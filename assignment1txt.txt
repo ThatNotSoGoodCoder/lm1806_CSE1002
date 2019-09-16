@@ -1,0 +1,7 @@
+Hello! My name is Logan Miller.
+
+I am a Junior currently attending Mississippi State University in the pursuit of Computer Science. Coding has never come natural to me but it is a long and strenous road that I have put myself on. So long as the college doesn't kick me out first, I am fully invested in this endeavor, as it's something I have dreamt of doing half my life now.
+
+An interesting fact about me turns out to be quite the norm within the CSE department, and that is my long-time pipedream to become a proficient software developer. However, developing software across many mediums does not interest me, as a matter of fact I find much of the development process to be extremely difficult. And though this may just be the "junior programmer" in me talking, I am actually more intrigued by the design and development of video games. Coding is a skill that I strive to improve upon everyday, as it only becomes more prominent from here on out. But my true passions lie in the texturing, modeling, designing, and SOME of the coding/implementation behind making a game work.
+
+My interesting fact turned into more of my "goals for the future", but coming from a town with less than a thousand people in it, I believe I am one of the first to come out of there with this mindset and especially this dream of mine.
